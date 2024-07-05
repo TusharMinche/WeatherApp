@@ -52,10 +52,6 @@ WeatherApp is a simple web application that provides real-time weather informati
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Open a Pull Request.
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Acknowledgements
 
 - [OpenWeatherMap API](https://openweathermap.org/api) for providing the weather data.
