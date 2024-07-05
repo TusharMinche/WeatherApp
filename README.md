@@ -1,4 +1,3 @@
-Based on the repository contents and structure, here's a draft for your README file:
 
 ---
 
@@ -62,5 +61,3 @@ This project is licensed under the MIT License.
 - [OpenWeatherMap API](https://openweathermap.org/api) for providing the weather data.
 
 ---
-
-Feel free to customize it further according to your project's needs.
